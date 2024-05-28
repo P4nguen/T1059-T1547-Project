@@ -1,0 +1,22 @@
+Commands for the server.service
+
+1-“sudo journalctl -u server.service”
+This shows you the server logs.
+
+2-“sudo systemctl restart server.service”
+This restarts the service to ensure changes are saved.
+
+3-“ping 192.168.1.106”
+This shows the connection and ms between server and your terminal.
+
+4-“nc -zv 192.168.1.106 12345”
+This makes a manual connection to the server's port using netcat to confirm the server is listening.
+
+5-“sudo rm -rf /var/log/journal/*
+sudo systemctl restart systemd-journald ”
+This clears all the server logs.
+
+6-“sudo systemctl status server.service”
+This ensures the server is running and listening on port 12345
+
+

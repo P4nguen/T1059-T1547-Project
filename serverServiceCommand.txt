@@ -6,7 +6,7 @@ This shows you the server logs.
 2-“sudo systemctl restart server.service”
 This restarts the service to ensure changes are saved.
 
-3-“ping 192.168.1.106”
+3-“ping your_victims_IP”
 This shows the connection and ms between server and your terminal.
 
 4-“nc -zv 192.168.1.106 12345”

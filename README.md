@@ -95,7 +95,7 @@ sudo systemctl enable server.service
 
 ## Step 4: Running the Client
 
-Run the command ```python3 client.py``` on your terminal while you are on your projects directory 
+Run the command `python3 client.py` on your terminal while you are on your projects directory 
 
 -> .../Desktop/client.py
 

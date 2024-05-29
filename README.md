@@ -2,24 +2,24 @@
 
 To run this project, you will need the following:
 
- -Python 3.x installed on both the server and client machines.
+Python 3.x installed on both the server and client machines.
 
- -SQLite3 (included with Python).
+SQLite3 (included with Python).
 
- -Basic knowledge of using a terminal or command line interface.
+Basic knowledge of using a terminal or command line interface.
 
 
 ## Files Included
 
- -client.py: The client script to send commands to the server.
+client.py: The client script to send commands to the server.
 
- -server.py: The server script to receive and execute commands.
+server.py: The server script to receive and execute commands.
 
- -createDb.py: A script to create the SQLite database and table.
+createDb.py: A script to create the SQLite database and table.
 
- -view_Db.py: A script to view the contents of the database.
+view_Db.py: A script to view the contents of the database.
 
- -command_outputs.db: The SQLite database where command outputs are stored. (you should run the createDb.py on the terminal for this to show up).
+command_outputs.db: The SQLite database where command outputs are stored. (you should run the createDb.py on the terminal for this to show up).
 
  Windows: `python createDb.py` Linux/Mac: `python3 createDb.py`
 

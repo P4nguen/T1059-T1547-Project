@@ -110,7 +110,7 @@ This will print the stored command outputs.
 
 That's all, you can find more commands for your needs in the text file I added named 'serverServiceCommand.txt' 
 
-Disclaimer!
+## Disclaimer!
 
 This project is created for educational and research purposes only. The intention is to demonstrate and practice concepts related to cybersecurity and ethical hacking in a controlled environment. Unauthorized access to computer systems, networks, or any other form of hacking without explicit permission from the owner is illegal and unethical.
 
